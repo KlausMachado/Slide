@@ -1,4 +1,4 @@
-# slideshow
+# Slideshow
 Mini projeto Slide
 
 Quarto mini projeto que desenvolvi usando como base o video: https://youtu.be/csNYVAS2ex8
